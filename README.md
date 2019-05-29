@@ -11,5 +11,5 @@ We are creating a structure where people can hire out bikes.
 | Bike | Working? |
 | DockingStation | release_bike |
 
-Bike <-- working? --> t/f
+Bike <-- working? --> t/f<br>
 DockingStation <-- release_bike --> Bike
